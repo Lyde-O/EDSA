@@ -1,0 +1,23 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+body {
+    height: 100vh;
+    background-color: cornsilk;
+    justify-content: center;
+    align-content: center;
+}
+div {
+    background-color: burlywood;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    text-decoration-color: bisque;
+    margin: 50px;
+    padding: 50px;
+    border: 50px;
+    border-radius: 45px;
+    border-width: 50px;
+    border-color: chocolate;
+}
